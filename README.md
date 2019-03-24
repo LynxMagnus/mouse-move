@@ -5,7 +5,6 @@ A Windows application to keep screen active.
 ### Prerequisites
 
 Visual Studio  
-SQL Server  
 .Net Framework
 
 ## License
